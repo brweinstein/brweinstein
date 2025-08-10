@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
+
 Honours Mathematics student at the University of Waterloo. Passionate about Rust, data science, and building elegant algorithms.
 
 ---
