@@ -9,10 +9,9 @@
 
 ---
 
-Honours Mathematics student at the University of Waterloo. Passionate about Rust, data science, and building elegant algorithms.
+Honours Mathematics student at the University of Waterloo. Passionate about Rust, data science, and building elegant and unique projects.
 
- [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin%20Weinstein-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-weinstein-5a0924287)
-
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin%20Weinstein-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-weinstein-5a0924287)
 ![Discord](https://img.shields.io/badge/Discord-bwL3-5865F2?logo=discord&logoColor=white)
 ---
 
