@@ -10,7 +10,9 @@
 ---
 
 Honours Mathematics student at the University of Waterloo. Passionate about Rust, data science, and building elegant algorithms.
-
+![Connect with me on Linkedin](https://www.linkedin.com/in/benjamin-weinstein-5a0924287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+### Add me on Discord
+![Discord](https://img.shields.io/badge/Discord-bwL3-5865F2?logo=discord&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
