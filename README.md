@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white)
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=brweinstein&layout=compact&theme=tokyonight
 ---
 
 Honours Mathematics student at the University of Waterloo. Passionate about Rust, data science, and building elegant algorithms.
