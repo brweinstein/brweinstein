@@ -20,7 +20,7 @@ Honours Mathematics student at the University of Waterloo. Passionate about Rust
   A blazing-fast CLI search tool written in Rust, inspired by `ripgrep` but with a twist—customizable search trees and blazing parallelism.
 
 - [**obsidian-tree**](https://github.com/brweinstein/obsidian-tree)  
-  A plugin for Obsidian that visualizes your note hierarchy as an interactive tree. Built with TypeScript and a love for clean UX.
+  A plugin for Obsidian that allows keyboard navigation and management of your notes. Inspired by nvim-tree and built with TypeScript.
 
 - [**anomaly**](https://github.com/brweinstein/anomaly)  
   A Python library for detecting anomalies in time series data using statistical and ML-based methods. Lightweight, extensible, and built for data scientists.
