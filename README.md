@@ -29,7 +29,7 @@ Honours Mathematics student at the University of Waterloo. Passionate about Rust
 
 ### 🛠️ My Dev Environment
 - **Editor**: Neovim + Tmux + Telescope (see my dotfiles)
-- **OS**: Arch Linux (btw 😉) on WSL2
+- **OS**: Arch Linux w/ Alacritty
 - **Languages**: Rust, Python, Typescript and Javascript, C, Bit of Lua
 
 ![brweinstein's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brweinstein&theme=tokyonight&show_icons=true&hide_border=true)
