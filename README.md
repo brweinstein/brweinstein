@@ -8,6 +8,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white)
 
 ---
+weinstein.vercel.app
+---
 
 Honours Mathematics student at the University of Waterloo. Passionate about Rust, data science, and building elegant and unique projects.
 
