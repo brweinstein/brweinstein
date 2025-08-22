@@ -5,7 +5,7 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim) ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white)
 ---
 
-I'm a (mostly caffeinated) Honours Mathematics student at the University of Waterloo who loves building things – especially with Rust, Python, and TypeScript. I'm passionate about clean code, unique projects, and learning new tech. When I'm not coding, you'll probably find me working out or dropping grinding ACW in Geoguessr.
+I'm a Honours Mathematics student at the University of Waterloo who loves building things – especially with Rust, Python, and TypeScript. I'm passionate about clean code, unique projects, and learning new tech. When I'm not coding, you'll probably find me working out or dropping grinding ACW in Geoguessr.
 
 ---
 
