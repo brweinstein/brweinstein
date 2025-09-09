@@ -9,14 +9,14 @@ I'm a Honours Mathematics student at the University of Waterloo who loves buildi
 
 ---
 
-## 🌐 Personal Website (Next.js, Vercel)
+## Personal Website (Next.js, Vercel)
 
-[**weinstein.vercel.app**](https://weinstein.vercel.app)  
+[**bweinstein.me**](https://www.bweinstein.me/)  
 My digital home! Built with Next.js, styled with Tailwind CSS, and deployed on Vercel. Check it out for my projects, writing, and a bit more about me.
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 - [**obsidian-tree**](https://github.com/brweinstein/obsidian-tree)  
   *A plugin for Obsidian that brings nvim-tree-style navigation and keyboard control to your notes. If you love using the keyboard, you'll love this. (TypeScript, plugin API)*
