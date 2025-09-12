@@ -24,8 +24,8 @@ My digital home! Built with Next.js, styled with Tailwind CSS, and deployed on V
 - [**greprs**](https://github.com/brweinstein/greprs)  
   *A blazing-fast command-line search tool written in Rust. Inspired by `ripgrep`, but with customizable search trees and parallelism.*
 
-- [**anomaly**](https://github.com/brweinstein/anomaly)  
-  *A Python library for anomaly detection in time series data. Lightweight, hackable, and built for data scientists.*
+- [**runmd**](https://github.com/brweinstein/runmd)  
+  *A high-performance rust tool to execute code blocks in Markdown files and insert their outputs inline.*
 
 ---
 
