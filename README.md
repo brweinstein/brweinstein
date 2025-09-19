@@ -27,8 +27,8 @@ My digital home! Built with Next.js, styled with Tailwind CSS, and deployed on V
 - [**runmd**](https://github.com/brweinstein/runmd)  
   *A high-performance rust tool to execute code blocks in Markdown files and insert their outputs inline.*
 
-- [**corsa**](https://github.com/brweinstein/corsa)
-  *Interactive RSA & cryptography visualizer*
+- [**corsa**](https://github.com/brweinstein/corsa)  
+  *RSA visualizer with a Rust/WASM core and a modern Next.js UI.*
 
 ---
 
