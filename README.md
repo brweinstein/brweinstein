@@ -12,18 +12,10 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white) 
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-000?&logo=webassembly&logoColor=white)
----
 
 I'm a Honours Mathematics student at the University of Waterloo who loves building things, especially with Rust, Python, and TypeScript. I'm passionate about clean code, unique projects, and learning new tech.
 
----
-
-## Personal Website (Next.js, Vercel)
-
 [**bweinstein.me**](https://www.bweinstein.me/)  
-My digital home! Built with Next.js, styled with Tailwind CSS, and deployed on Vercel. Check it out for my projects, writing, and a bit more about me.
-
-## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin%20Weinstein-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-weinstein-5a0924287)
 ![Discord](https://img.shields.io/badge/Discord-bwL3-5865F2?logo=discord&logoColor=white)
