@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white) 
 
-I'm a Honours Mathematics student at the University of Waterloo who loves building things, especially with Rust, Python, and TypeScript. I'm passionate about clean code, unique projects, and learning new tech.
+I'm a Honours Mathematics student at the University of Waterloo. Rust, Python, TypeScript.
 
 [**bweinstein.me**](https://www.bweinstein.me/)  
 
